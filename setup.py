@@ -21,6 +21,8 @@ setup(
     url='https://github.com/Jufik/python-fixer',
     author='Julien Kieffer TISSIER',
     author_email='julien.kieffer@gadz.org',
+    maintainer='Fabian Affolter',
+    maintainer_email='fabian@affolter-engineering.ch'
     license='MIT',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
