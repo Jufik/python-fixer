@@ -14,9 +14,9 @@ except Exception:
 
 
 setup(
-    name='fixer',
+    name='fixerio',
     version='1.0.0',
-    description='A python client for fixer io api',
+    description='A Python client for fixer.io API',
     long_description=long_description,
     url='https://github.com/Jufik/python-fixer',
     author='Julien Kieffer TISSIER',
